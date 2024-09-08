@@ -1,4 +1,4 @@
-CIS 345 - Business Information Systems Development II:
+CIS 345 - Business Information Systems Development II (AKA my Python class):
 
 'At the end of this course students will have the ability to 1) demonstrate a comprehensive understanding of
 object-oriented programming techniques, 2) utilize APIs, 3) apply the Systems Development Life Cycle (SDLC) tools,
